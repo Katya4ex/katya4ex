@@ -1,7 +1,11 @@
 
 ### Обо мне
-Меня зовут Екатерина. Я занимаюсь сбором, обработкой и анализом данных. Моя основная специализация - сфера недвижимости, но навыки также применимы в любой другой.
+Меня зовут Екатерина. Я занимаюсь сбором, обработкой и анализом данных.   
+Моя основная специализация - сфера недвижимости, но навыки также применимы в любой другой.  
 
+Вы можете связаться со мной по email katya4ex@gmail.com
+
+---
 ### Проекты
 [kvartalcom.ru](https://kvartalcom.ru) - мой проект-презентация. На нем осваивала Django, более детально HTML, CSS, Git и прочие web-инструменты.
 
@@ -10,6 +14,7 @@
  - Скрипт по сбору данных (bs4+request)  
  - Скрипт по сбору данных (Selenium)  
 
+---
 ### Языки и инструменты
 ![Python](https://img.shields.io/badge/Python-c34f25?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django-c34f25?style=for-the-badge&logo=django)
@@ -31,5 +36,3 @@ Excel - на уровне продвинутого пользователя дл
 ![JSON](https://img.shields.io/badge/JSON-999999?style=for-the-badge&logo=JSON)
 ![TXT](https://img.shields.io/badge/TXT-999999?style=for-the-badge&logo=TXT)  
 
-
-Вы можете связаться со мной по email katya4ex@gmail.com
