@@ -12,6 +12,7 @@ Header
 3. Скрипт по сбору данных (Selenium)
 
 ### Языки и инструменты
+![Python](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
 Python - в основном решаю задачи, связанные со сбором информации (Requests, Bs4, Selenium)
 Django, Git, AWS, Linux - изучала и использовала для работы над web-проектом.
 Sql - на уровне написания простых запросов
