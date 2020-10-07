@@ -32,4 +32,4 @@ Excel - на уровне продвинутого пользователя дл
 ![TXT](https://img.shields.io/badge/TXT-999999?style=for-the-badge&logo=TXT)  
 
 
-Вы можете связаться со мной по email ####katya4ex@gmail.com
+Вы можете связаться со мной по email katya4ex@gmail.com
