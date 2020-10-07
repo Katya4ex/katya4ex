@@ -5,10 +5,10 @@
 ### Проекты
 [kvartalcom.ru](https://kvartalcom.ru) - мой проект-презентация.
 
-Также на GitHub есть часть моих работ:
-*[Исследование рынка недвижимости: Анализ предложений по аренде помещений в торговых центрах] (https://github.com/Katya4ex/katya4ex/blob/main/some_project/Data_analysis/Data_Spb_retail_rent.ipynb)
-*Скрипт по сбору данных (bs4+request)
-*Скрипт по сбору данных (Selenium)
+Также на GitHub есть часть моих работ:  
+ - [Исследование рынка недвижимости: Анализ предложений по аренде помещений в торговых центрах](https://github.com/Katya4ex/katya4ex/blob/main/some_project/Data_analysis/Data_Spb_retail_rent.ipynb)  
+ - Скрипт по сбору данных (bs4+request)  
+ - Скрипт по сбору данных (Selenium)  
 
 ### Языки и инструменты
 ![Python](https://img.shields.io/badge/Python-c34f25?style=for-the-badge&logo=python)
