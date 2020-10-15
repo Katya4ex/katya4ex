@@ -10,9 +10,8 @@
 [kvartalcom.ru](https://kvartalcom.ru) - мой проект-презентация. На нем осваивала Django, более детально HTML, CSS, Git и прочие web-инструменты.
 
 Также на GitHub есть часть моих работ:  
- - [Исследование рынка недвижимости: Анализ предложений по аренде помещений в торговых центрах](https://github.com/Katya4ex/katya4ex/blob/main/some_project/Data_analysis/Data_Spb_retail_rent.ipynb)  
- - Скрипт по сбору данных (bs4+request)  
- - Скрипт по сбору данных (Selenium)  
+ - [Исследование рынка недвижимости: Анализ предложений по аренде помещений в торговых центрах](https://github.com/Katya4ex/katya4ex/blob/main/some_project/Data_analysis/Data_Spb_retail_rent.ipynb)    
+ - [Скрипт по сбору данных (Selenium)](https://github.com/Katya4ex/katya4ex/tree/main/some_project/Parsing)
 
 ---
 ### Языки и инструменты
