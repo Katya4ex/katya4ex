@@ -9,7 +9,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 
 def write_csv(data):
-    with open('2gis_rubrics.csv', 'a') as f:
+    with open('rubrics.csv', 'a') as f:
         writer = csv.writer(f)
         writer.writerow((data['name_rubric'],
                          data['name_subrubric'],
