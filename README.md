@@ -7,7 +7,7 @@
 
 ---
 ### Проекты
-[kvartalcom.ru](https://kvartalcom.ru) - мой проект-презентация. На нем осваивала Django, более детально HTML, CSS, Git и прочие web-инструменты.
+[kvartalcom.ru](https://kvartalcom.ru) - мой проект-презентация, сделанный на Django.
 
 Также на GitHub есть часть моих работ:  
  - [Исследование рынка недвижимости: Анализ предложений по аренде помещений в торговых центрах](https://github.com/Katya4ex/katya4ex/blob/main/some_project/Data_analysis/Data_Spb_retail_rent.ipynb)    
