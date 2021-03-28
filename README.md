@@ -10,9 +10,11 @@
 [kvartalcom.ru](https://kvartalcom.ru) - мой проект-презентация, сделанный на Django.
 
 Также на GitHub есть часть моих работ:  
- - [Исследование рынка недвижимости: Анализ предложений по аренде помещений в торговых центрах](https://github.com/Katya4ex/katya4ex/blob/main/some_project/Data_analysis/Data_Spb_retail_rent.ipynb)
- - [Анализ данных центра клиентского сервиса](https://github.com/Katya4ex/katya4ex/blob/main/some_project/Data_analysis/result_task_avito.ipynb)
+
+ - [Анализ данных центра клиентского сервиса](https://github.com/Katya4ex/katya4ex/blob/main/some_project/Data_analysis/Data_castomer_service.ipynb)
  - [Скрипт по сбору данных (Selenium)](https://github.com/Katya4ex/katya4ex/tree/main/some_project/Parsing)
+ - [Исследование рынка недвижимости: Анализ предложений по аренде помещений в торговых центрах](https://github.com/Katya4ex/katya4ex/blob/main/some_project/Data_analysis/Data_Spb_retail_rent.ipynb)
+ - [Исследование рынка недвижимости: Открытие новых торговых центров в России 2020г.](https://docs.google.com/presentation/d/1XRy8R2KnYctTQR15zUcMDRwj2x5ZdTzJphMZi0Bad4I/edit?usp=sharing)
 
 ---
 ### Языки и инструменты
