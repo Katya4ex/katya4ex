@@ -11,8 +11,11 @@
 
 Также на GitHub есть часть моих работ:  
 
- - [Анализ данных центра клиентского сервиса](https://github.com/Katya4ex/katya4ex/blob/main/some_project/Data_analysis/Data_castomer_service.ipynb)
- - [Скрипт по сбору данных (Selenium)](https://github.com/Katya4ex/katya4ex/tree/main/some_project/Parsing)
+ - Python (pandas, matplotlib) [Анализ данных центра клиентского сервиса](https://github.com/Katya4ex/katya4ex/blob/main/some_project/Data_analysis/Data_castomer_service.ipynb)
+ - Python (Selenium) [Скрипт по сбору данных](https://github.com/Katya4ex/katya4ex/tree/main/some_project/Parsing)
+ - Визуализация данных в Tableau [Анализ рынка торговых площадей в городах-миллионниках](https://public.tableau.com/views/-_16241099070140/sheet4?:language=en-US&:display_count=n&:origin=viz_share_link)
+ 
+ Презентации в PowerPoint:
  - [Исследование рынка недвижимости: Рынок торговых центров в России 2020г.](https://docs.google.com/presentation/d/1XRy8R2KnYctTQR15zUcMDRwj2x5ZdTzJphMZi0Bad4I/edit?usp=sharing)
  - [Исследование рынка недвижимости: Рынок торговых центров Санкт-Петербурга 2020г.](https://docs.google.com/presentation/d/1hTsT-CPeb2aPEG1E9O2r3YvhrkV-R9MB5FnRy89maRg/edit?usp=sharing)
  - [Исследование рынка недвижимости: Анализ предложений по аренде помещений в торговых центрах](https://github.com/Katya4ex/katya4ex/blob/main/some_project/Data_analysis/Data_Spb_retail_rent.ipynb)
