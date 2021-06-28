@@ -24,8 +24,8 @@
 
 ---
 ### Языки и инструменты
-![Tableau](https://img.shields.io/badge/Tableau-c34f25?style=for-the-badge&logo=tableau&color='#E97627')
-![Python](https://img.shields.io/badge/Python-c34f25?style=for-the-badge&logo=python&color=#3776AB)
+![Tableau](https://img.shields.io/badge/Tableau-c34f25?style=for-the-badge&logo=tableau)
+![Python](https://img.shields.io/badge/Python-c34f25?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django-c34f25?style=for-the-badge&logo=django)
 ![Git](https://img.shields.io/badge/Git-c34f25?style=for-the-badge&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-c34f25?style=for-the-badge&logo=linux)
