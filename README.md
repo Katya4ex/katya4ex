@@ -43,5 +43,6 @@ Excel - на уровне продвинутого пользователя дл
 ![CSV](https://img.shields.io/badge/CSV-999999?style=for-the-badge&logo=CSV)
 ![XML](https://img.shields.io/badge/XML-999999?style=for-the-badge&logo=XML)
 ![JSON](https://img.shields.io/badge/JSON-999999?style=for-the-badge&logo=JSON)
+![SHAPEFILE](https://img.shields.io/badge/SHAPEFILE-999999?style=for-the-badge&logo=shapefile)
 ![TXT](https://img.shields.io/badge/TXT-999999?style=for-the-badge&logo=TXT)  
 
