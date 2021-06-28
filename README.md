@@ -24,7 +24,7 @@
 
 ---
 ### Языки и инструменты
-![Tableau](https://img.shields.io/badge/Tableau-c34f25?style=for-the-badge&logo=tableau)
+![Tableau](https://img.shields.io/badge/Tableau-c34f25?style=for-the-badge&logo=tableau&color=blue)
 ![Python](https://img.shields.io/badge/Python-c34f25?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django-c34f25?style=for-the-badge&logo=django)
 ![Git](https://img.shields.io/badge/Git-c34f25?style=for-the-badge&logo=git)
@@ -32,7 +32,7 @@
 ![Excel](https://img.shields.io/badge/Excel-c34f25?style=for-the-badge&logo=excel)  
 
 Python - в основном решаю задачи, связанные со сбором информации (Requests, Bs4, Selenium)  
-Django, Git, AWS, Linux - изучала и использовала для работы над web-проектом.  
+Django, Git, AWS, Linux - изучала и использовала для работы с web-проектами.  
 Sql - на уровне написания простых запросов  
 Excel - на уровне продвинутого пользователя для работы с массивами данных  
 
