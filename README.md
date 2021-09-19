@@ -24,7 +24,7 @@
 
 ---
 ### Языки и инструменты
-![Power BI](https://img.shields.io/badge/Power BI-c34f25?style=for-the-badge&logo=power_bi)
+![Power BI](https://img.shields.io/badge/Power_BI-c34f25?style=for-the-badge&logo=power_bi)
 ![Python](https://img.shields.io/badge/Python-c34f25?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django-c34f25?style=for-the-badge&logo=django)
 ![Git](https://img.shields.io/badge/Git-c34f25?style=for-the-badge&logo=git)
