@@ -7,8 +7,8 @@
 
 ---
 ### Проекты
-[kvartalcom.ru](https://kvartalcom.pythonanywhere.com) - мой проект-презентация, сделанный на Django. В данный момент занимаюсь поддержкой.
-На основании данных о коммерческой недвижимости делаю исследования рынка, пишу короткие обзоры, составляю дашборды.
+[kvartalcom.ru](https://kvartalcom.pythonanywhere.com) - мой проект-презентация, сделанный на Django. В данный момент занимаюсь поддержкой.  
+На основе данных о коммерческой недвижимости делаю исследования рынка, пишу короткие обзоры, составляю дашборды.
 
 
 Также на GitHub есть часть моих работ:  
@@ -28,13 +28,15 @@
 ![Excel](https://img.shields.io/badge/Excel-c34f25?style=for-the-badge&logo=excel)
 ![Python](https://img.shields.io/badge/Python-c34f25?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django-c34f25?style=for-the-badge&logo=django)
+![PostgreSql](https://img.shields.io/badge/Django-c34f25?style=for-the-badge&logo=postgresql)
+![Sql](https://img.shields.io/badge/Django-c34f25?style=for-the-badge&logo=esql)
 ![Git](https://img.shields.io/badge/Git-c34f25?style=for-the-badge&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-c34f25?style=for-the-badge&logo=linux)
 
 
 Python - в основном решаю задачи, связанные со сбором информации (Requests, Bs4, Selenium)  
-Django, Git, AWS, Google Cloud, Linux - изучала и использовала для работы с web-проектами.  
-Sql - на уровне написания простых запросов  
+Django, PostgreSql, Git, AWS, Google Cloud, Linux - изучала и использовала для работы с web-проектами.  
+Sql - на уровне написания базовых запросов  
 Excel - на уровне продвинутого пользователя для обработки больших объемов данных
 
 
