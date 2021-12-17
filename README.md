@@ -28,8 +28,8 @@
 ![Excel](https://img.shields.io/badge/Excel-c34f25?style=for-the-badge&logo=excel)
 ![Python](https://img.shields.io/badge/Python-c34f25?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django-c34f25?style=for-the-badge&logo=django)
-![PostgreSql](https://img.shields.io/badge/Django-c34f25?style=for-the-badge&logo=postgresql)
-![Sql](https://img.shields.io/badge/Django-c34f25?style=for-the-badge&logo=esql)
+![PostgreSql](https://img.shields.io/badge/PostgreSql-c34f25?style=for-the-badge&logo=postgresql)
+![Sql](https://img.shields.io/badge/Sql-c34f25?style=for-the-badge&logo=esql)
 ![Git](https://img.shields.io/badge/Git-c34f25?style=for-the-badge&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-c34f25?style=for-the-badge&logo=linux)
 
