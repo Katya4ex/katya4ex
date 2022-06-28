@@ -33,11 +33,10 @@
 ![Git](https://img.shields.io/badge/Git-c34f25?style=for-the-badge&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-c34f25?style=for-the-badge&logo=linux)
 
-
+Sql - на базовом уровне  
+Excel - на уровне продвинутого пользователя в части обработки больших объемов данных
 Python - в основном решаю задачи, связанные со сбором информации (Requests, Bs4, Selenium)  
 Django, PostgreSql, Git, AWS, Google Cloud, Linux - изучала и использовала для работы с web-проектами.  
-Sql - на уровне написания базовых запросов  
-Excel - на уровне продвинутого пользователя для обработки больших объемов данных
 
 
 Знакомые форматы представления/разметки данных:  
