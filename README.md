@@ -51,8 +51,10 @@ Excel - на уровне продвинутого пользователя дл
 
 ### Пройденные курсы:
 [Интерактивный тренажер по SQL](https://stepik.org/cert/1457192)  
+[Курс по Power BI от iTempUniversity](https://www.youtube.com/playlist?list=PL0FN8SpXya_JgY0s8QM8xGVcZ26YLL0sa)
 [Цифровая трансформация. Быстрый старт от Центра подготовки руководителей и команд ЦТ ВШГУ РАНХиГС](https://stepik.org/cert/1242513)  
 [Основы проектирования информационных систем](https://stepik.org/cert/1145938)  
+[Курс по Power BI от iTempUniversity](https://www.youtube.com/playlist?list=PL0FN8SpXya_JgY0s8QM8xGVcZ26YLL0sa)  
 [BI разработчик. Основы работы в Tableau](https://stepik.org/course/56280/syllabus)  
 [Алгоритмы: теория и практика. Методы от Computer Science Center](https://stepik.org/cert/97466)  
 [Hadoop. Система для обработки больших объемов данных от Mail.Ru](https://stepik.org/cert/91238)  
