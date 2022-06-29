@@ -48,7 +48,7 @@ Django, PostgreSql, Git, AWS, Google Cloud, Linux - изучала и испол
 ![SHAPEFILE](https://img.shields.io/badge/SHAPEFILE-999999?style=for-the-badge&logo=shapefile)
 ![TXT](https://img.shields.io/badge/TXT-999999?style=for-the-badge&logo=TXT)  
 
-### Пройденные курсы:
+### Курсы:
 [Интерактивный тренажер по SQL](https://stepik.org/cert/1457192)  
 [Курс SQL от iTempUniversity](https://www.youtube.com/playlist?list=PL0FN8SpXya_JgY0s8QM8xGVcZ26YLL0sa)  
 [Цифровая трансформация. Быстрый старт от Центра подготовки руководителей и команд ЦТ ВШГУ РАНХиГС](https://stepik.org/cert/1242513)  
