@@ -61,4 +61,9 @@ Django, PostgreSql, Git, AWS, Google Cloud, Linux - изучала и испол
 [Веб-разработка для начинающих: HTML и CSS от ITC](https://stepik.org/cert/239969)  
 [Python: основы и применение от Bioinformatics Institute](https://stepik.org/cert/65784)  
 [Введение в базы данных от НИУ ВШЭ](https://stepik.org/cert/199665)  
-[Основы Linux](https://stepik.org/course/762)  
+[Основы Linux](https://stepik.org/course/762) 
+
+### Вебинары (дополняю в данный момент):
+[Введение в SQL. Учимся работать с базами данных от Skillbox]
+[Функциональное тестирование API с использованием инструмента Postman от Центра подготовки руководителей и команд ЦТ](https://t.me/c/1601360360/325)  
+
