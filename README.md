@@ -68,6 +68,6 @@ Django, PostgreSql, Git, AWS, Google Cloud, Linux - изучала и испол
 [Управление данными: DAMA DMBOK2](https://dataliteracy.ru/dmbok)  
 [Apache NiFi](https://youtube.com/playlist?list=PL4MpKy3QjNp_rOEEibc4Ro8UK4g8vLX6_)  
 [Введение в SQL. Учимся работать с базами данных от Skillbox](https://live.skillbox.ru/webinars/code/vvedenie-v-sql261222/)  
-[Создаём лендинг на Figma за 3 дня от Skillbox](https://live.skillbox.ru/webinars/design/sozdayom-koncepciyu-prodayushego-saita250722/)
+[Создаём лендинг на Figma за 3 дня от Skillbox](https://live.skillbox.ru/webinars/design/sozdayom-koncepciyu-prodayushego-saita250722/)  
 [Функциональное тестирование API с использованием инструмента Postman от Центра подготовки руководителей и команд ЦТ](https://vk.com/video/@cdtocenter?list=b14c1741d25e1f84d3&z=video-186572350_456239120)  
 
