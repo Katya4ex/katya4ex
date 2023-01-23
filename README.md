@@ -13,14 +13,14 @@
 
 Также на GitHub есть часть моих работ:  
 
- - Python (pandas, matplotlib) [Анализ данных центра клиентского сервиса](https://github.com/Katya4ex/katya4ex/blob/main/some_project/Data_analysis/Data_castomer_service.ipynb)
+ - Python (pandas, matplotlib) [Анализ данных центра клиентского сервиса](https://github.com/Katya4ex/katya4ex/blob/main/some_project/Data_analysis/Data_castomer_service.ipynb)  
+ - Python (pandas, matplotlib) [Исследование рынка недвижимости: Анализ предложений по аренде помещений в торговых центрах](https://github.com/Katya4ex/katya4ex/blob/main/some_project/Data_analysis/Data_Spb_retail_rent.ipynb)  
  - Python (Selenium) [Скрипт по сбору данных](https://github.com/Katya4ex/katya4ex/tree/main/some_project/Parsing)
- - Визуализация данных в Tableau [Анализ рынка торговых площадей в городах-миллионниках](https://public.tableau.com/views/-_16241099070140/sheet4?:language=en-US&:display_count=n&:origin=viz_share_link)
- 
+ - Визуализация данных в Tableau [Анализ рынка торговых площадей в городах-миллионниках](https://public.tableau.com/views/-_16241099070140/sheet4?:language=en-US&:display_count=n&:origin=viz_share_link) 
+  
  Презентации в PowerPoint:
  - [Исследование рынка недвижимости: Рынок торговых центров в России 2020г.](https://docs.google.com/presentation/d/1XRy8R2KnYctTQR15zUcMDRwj2x5ZdTzJphMZi0Bad4I/edit?usp=sharing)
  - [Исследование рынка недвижимости: Рынок торговых центров Санкт-Петербурга 2020г.](https://docs.google.com/presentation/d/1hTsT-CPeb2aPEG1E9O2r3YvhrkV-R9MB5FnRy89maRg/edit?usp=sharing)
- - [Исследование рынка недвижимости: Анализ предложений по аренде помещений в торговых центрах](https://github.com/Katya4ex/katya4ex/blob/main/some_project/Data_analysis/Data_Spb_retail_rent.ipynb)
 
 ---
 ### Языки и инструменты
@@ -57,13 +57,17 @@ Django, PostgreSql, Git, AWS, Google Cloud, Linux - изучала и испол
 [BI разработчик. Основы работы в Tableau](https://stepik.org/course/56280/syllabus)  
 [Алгоритмы: теория и практика. Методы от Computer Science Center](https://stepik.org/cert/97466)  
 [Hadoop. Система для обработки больших объемов данных от Mail.Ru](https://stepik.org/cert/91238)  
+[Django REST Framework](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8xZA3Kl1fYmOH_MfLpiYMRs)
 [Web-технологии от Mail.Ru](https://stepik.org/cert/175642)  
 [Веб-разработка для начинающих: HTML и CSS от ITC](https://stepik.org/cert/239969)  
 [Python: основы и применение от Bioinformatics Institute](https://stepik.org/cert/65784)  
 [Введение в базы данных от НИУ ВШЭ](https://stepik.org/cert/199665)  
 [Основы Linux](https://stepik.org/course/762) 
 
-### Вебинары (дополняю в данный момент):
-[Введение в SQL. Учимся работать с базами данных от Skillbox]  
-[Функциональное тестирование API с использованием инструмента Postman от Центра подготовки руководителей и команд ЦТ](https://t.me/c/1601360360/325)  
+### Вебинары:
+[Управление данными: DAMA DMBOK2](https://dataliteracy.ru/dmbok)  
+[Apache NiFi](https://youtube.com/playlist?list=PL4MpKy3QjNp_rOEEibc4Ro8UK4g8vLX6_)  
+[Введение в SQL. Учимся работать с базами данных от Skillbox](https://live.skillbox.ru/webinars/code/vvedenie-v-sql261222/)  
+[Создаём лендинг на Figma за 3 дня от Skillbox](https://live.skillbox.ru/webinars/design/sozdayom-koncepciyu-prodayushego-saita250722/)
+[Функциональное тестирование API с использованием инструмента Postman от Центра подготовки руководителей и команд ЦТ](https://vk.com/video/@cdtocenter?list=b14c1741d25e1f84d3&z=video-186572350_456239120)  
 
