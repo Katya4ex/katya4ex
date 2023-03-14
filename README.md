@@ -34,6 +34,7 @@
 ![Linux](https://img.shields.io/badge/Linux-c34f25?style=for-the-badge&logo=linux)
 
 ![Image alt](https://github.com/Katya4ex/katya4ex/blob/c05669e2fd64680447b8e0e2b557558f71c0a39e/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG) Sql - на уровне написания запросов средней сложности 
+<img src="[[path/to/screenshot.png](https://github.com/Katya4ex/katya4ex/blob/c05669e2fd64680447b8e0e2b557558f71c0a39e/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG)](https://github.com/Katya4ex/katya4ex/blob/c05669e2fd64680447b8e0e2b557558f71c0a39e/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG)" width="500">
 Excel - на уровне продвинутого пользователя в части обработки больших объемов данных
 Python - в основном решаю задачи, связанные со сбором информации (Requests, Bs4, Selenium)  
 Django, PostgreSql, Git, AWS, Google Cloud, Linux - изучала и использовала для работы с web-проектами.  
