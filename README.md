@@ -17,6 +17,7 @@
  - Python (pandas, matplotlib) [Исследование рынка недвижимости: Анализ предложений по аренде помещений в торговых центрах](https://github.com/Katya4ex/katya4ex/blob/main/some_project/Data_analysis/Data_Spb_retail_rent.ipynb)  
  - Python (Selenium) [Скрипт по сбору данных](https://github.com/Katya4ex/katya4ex/tree/main/some_project/Parsing)
  - Визуализация данных в Tableau [Анализ рынка торговых площадей в городах-миллионниках](https://public.tableau.com/views/-_16241099070140/sheet4?:language=en-US&:display_count=n&:origin=viz_share_link) 
+ - Визуализация данных в Grafana [Мониторинг метрик качества данных, ](https://github.com/Katya4ex/katya4ex/blob/3a786ff79d74f7d1f752997b66a3a9f5c8c13177/%D0%B4%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4%20%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B8%20%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0.PNG) [Мониторинг событий и инцидентов](https://github.com/Katya4ex/katya4ex/blob/3a786ff79d74f7d1f752997b66a3a9f5c8c13177/%D0%B4%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4%20%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F%20%D0%B8%20%D0%B8%D0%BD%D1%86%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D1%8B.png)
   
  Презентации в PowerPoint:
  - [Исследование рынка недвижимости: Рынок торговых центров в России 2020г.](https://docs.google.com/presentation/d/1XRy8R2KnYctTQR15zUcMDRwj2x5ZdTzJphMZi0Bad4I/edit?usp=sharing)
