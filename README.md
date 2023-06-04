@@ -69,6 +69,7 @@ Django, PostgreSql, Git, AWS, Google Cloud, Linux - изучала и испол
 [Основы Linux](https://stepik.org/course/762) 
 
 ### Вебинары:
+[Обработка данных на Apache Airflow в Yandex Cloud](https://youtu.be/jF3YemOVofQ)
 [Управление данными: DAMA DMBOK2](https://dataliteracy.ru/dmbok)  
 [Apache Spark от BigDataSchool](https://www.youtube.com/watch?v=xuMe6OFyQ2s)  
 [Apache NiFi](https://youtube.com/playlist?list=PL4MpKy3QjNp_rOEEibc4Ro8UK4g8vLX6_)  
