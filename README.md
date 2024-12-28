@@ -51,7 +51,7 @@ Django, PostgreSql, Git, AWS, Google Cloud, Linux - изучала и испол
 
 ### Курсы:
 [Основы работы с СУБД Greenplum](https://drive.google.com/file/d/1b3idqnXvfyKC7-lgrN34O9EizX90WYLC/view?usp=sharing)  
-[Основы Agile Production Process](https://drive.google.com/file/d/14n3B232ybMWhZDAu3HT2j2DCHxpShB7D/view?usp=sharing) 
+[Основы Agile Production Process](https://drive.google.com/file/d/14n3B232ybMWhZDAu3HT2j2DCHxpShB7D/view?usp=sharing)  
 [Работа с LLM GigaChat](https://drive.google.com/file/d/1rP29fVwCV-kmxgx1Gm12EcpcS9d1pHac/view?usp=sharing)  
 [Продвинутый SQL](https://stepik.org/cert/2042047)  
 [Интерактивный тренажер по SQL](https://stepik.org/cert/1457192)  
