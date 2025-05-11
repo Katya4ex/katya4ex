@@ -50,7 +50,7 @@ Sql, Git, Linux - использую в коммерческих проекта�
 ![TXT](https://img.shields.io/badge/TXT-999999?style=for-the-badge&logo=TXT)  
 
 ### Курсы:
-Основы работы с СУБД Greenplum от Сбер[сертификат](https://drive.google.com/file/d/1b3idqnXvfyKC7-lgrN34O9EizX90WYLC/view?usp=sharing)  
+Основы работы с СУБД Greenplum от Сбер [(сертификат)](https://drive.google.com/file/d/1b3idqnXvfyKC7-lgrN34O9EizX90WYLC/view?usp=sharing)  
 [Основы Agile Production Process от Сбер](https://drive.google.com/file/d/14n3B232ybMWhZDAu3HT2j2DCHxpShB7D/view?usp=sharing)  
 [Работа с LLM GigaChat от Сбер](https://drive.google.com/file/d/1rP29fVwCV-kmxgx1Gm12EcpcS9d1pHac/view?usp=sharing)  
 [Продвинутый SQL](https://stepik.org/cert/2042047)  
