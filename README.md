@@ -63,7 +63,7 @@ Sql, Git, Linux - использую в коммерческих проекта�
 BI разработчик. Основы работы в Tableau [(ссылка)](https://stepik.org/course/56280/syllabus)  
 Алгоритмы: теория и практика. Методы от Computer Science Center [(сертификат)](https://stepik.org/cert/97466)  
 Hadoop. Система для обработки больших объемов данных от Mail.Ru [(сертификат)](https://stepik.org/cert/91238)  
-Django REST Framework [(ссылка)](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8xZA3Kl1fYmOH_MfLpiYMRs)
+Django REST Framework [(ссылка)](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8xZA3Kl1fYmOH_MfLpiYMRs)  
 Web-технологии от Mail.Ru [(сертификат)](https://stepik.org/cert/175642)  
 Веб-разработка для начинающих: HTML и CSS от ITC [(сертификат)](https://stepik.org/cert/239969)  
 Python: основы и применение от Bioinformatics Institute [(сертификат)](https://stepik.org/cert/65784)  
