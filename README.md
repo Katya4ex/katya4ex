@@ -33,7 +33,6 @@
 ![Linux](https://img.shields.io/badge/Linux-c34f25?style=for-the-badge&logo=linux)
 
 <img src="https://github.com/Katya4ex/katya4ex/blob/c05669e2fd64680447b8e0e2b557558f71c0a39e/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG" width="50">  
-Sql - на уровне написания запросов средней сложности 
 
 
 Python - в основном решаю задачи, связанные со сбором информации (Requests, Bs4, Selenium)  
